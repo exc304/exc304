@@ -5,11 +5,11 @@
 
 ### Hi there 👋
 
-I'm [Erin](https://github.com/exc304/) on GitHub :octocat: with ![GitHub followers](https://img.shields.io/github/followers/exc304?style=social) and on the app formally known as Twitter as  ![twitter](https://img.shields.io/twitter/follow/millankaul?label=queentester&style=social)
+I'm [Erin](https://github.com/exc304/) :octocat: with ![GitHub followers](https://img.shields.io/github/followers/exc304?style=social) you can also find me on the app formally known as Twitter  ![twitter](https://img.shields.io/twitter/follow/millankaul?label=queentester&style=social)
 
 
 
-Some of my work
+Snapshot of my recent work
 
 | Full Stats |Top Languages |
 |:--:|:--:|
