@@ -13,7 +13,7 @@ Snapshot of my recent work
 
 | Full Stats |Top Languages |
 |:--:|:--:|
-|![Erin's GitHub stats](https://github-readme-stats.vercel.app/api?username=exc304&theme=transparent&show_icons=true)|[![Top Languages used in this repo](https://github-readme-stats.vercel.app/api/top-langs/?username=exc304&hide=html,css&langs_count=5&layout=compact)](https://github.com/exc304k/github-readme-stats)|
+|![My GitHub stats](https://github-readme-stats.vercel.app/api?username=exc304&theme=transparent&show_icons=true)|[![Top Languages used in this repo](https://github-readme-stats.vercel.app/api/top-langs/?username=exc304&hide=html,css&langs_count=5&layout=compact)](https://github.com/exc304k/github-readme-stats)|
 
 <!-- Ref https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
