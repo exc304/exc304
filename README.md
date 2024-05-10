@@ -4,7 +4,7 @@
 
 ### 📸 Snapshot of my recent work
 
-| Full Stats | Languages Used |
+| 🐨 | 🙊 |
 |:--:|:--:|
 |![My GitHub stats](https://github-readme-stats.vercel.app/api?username=exc304&theme=transparent&show_icons=true)|[![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=exc304&hide=html,css&langs_count=6&layout=compact)](https://github.com/exc304/github-readme-stats)|
 
