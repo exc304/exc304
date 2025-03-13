@@ -4,7 +4,7 @@ I'm [Erin](https://linkedin.com/in/erin-crise), a UX designer and self taught co
 I have a passion for optimizing systems and refining testing strategies. 
 I’m dedicated to delivering secure, scalable solutions in a collaborative environment. 🚀
 
-Collaborating within software development teams since 2009. I work as a QA Engineering Manager in Raleigh, North Carolina.
+Experimenting within software development teams since 2009. I currently work as a QA Engineering Manager in Kansas City, MO.
 
 🗺️ DevOps Days KC Organizer since [2024](https://devopsdays.org/events/2024-kansas-city/welcome/)
 
