@@ -1,6 +1,6 @@
 ### **Hi there** :octocat: ![GitHub followers](https://img.shields.io/github/followers/exc304?style=social) 
 
-I'm [Erin](https://linkedin.com/in/erin-crise), a designer and self taught coder who developed a love for software testing.
+I'm [Erin](https://linkedin.com/in/erin-crise), a UX designer and self taught coder who developed a love for software testing.
 I have a passion for optimizing systems and refining testing strategies. 
 I’m dedicated to delivering secure, scalable solutions in a collaborative environment. 🚀
 
