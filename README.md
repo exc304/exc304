@@ -1,14 +1,14 @@
 ### **Hi there** :octocat: ![GitHub followers](https://img.shields.io/github/followers/exc304?style=social) 
 
-I'm [Erin](https://linkedin.com/in/erin-crise), a UX designer and self taught coder who developed a love for software testing.
-I have a passion for optimizing systems and refining testing strategies. 
-I’m dedicated to delivering secure, scalable solutions in a collaborative environment. 🚀
+I'm [Erin](https://linkedin.com/in/erin-crise), a UX designer and self taught coder who developed a love for software testing.  
+I have a passion for optimizing systems and refining testing strategies.  
+I’m dedicated to delivering secure, scalable solutions in a collaborative environment. 🚀  
 
-Experimenting within software development teams since 2009. I currently work as a QA Engineering Manager in Kansas City, MO.
+Experimenting within software development teams since 2009.   
+I currently work as the Manager of Quality Engineering and Automation at **Cycle Labs**, located in Raleigh North Carolina.
 
-🗺️ DevOps Days KC Organizer since [2024](https://devopsdays.org/events/2024-kansas-city/welcome/)
+🗺️ **DevOps Days KC Organizer** since [2024](https://devopsdays.org/events/2024-kansas-city/welcome/)  
+🛠️ **Kansas City Developer Converence** ( [KCDC](https://www.kcdc.info/) ) - Volunteer since 2023 and Organizing team since 2024
 
-🛠️ Kansas City Developer Converence ( [KCDC](https://www.kcdc.info/) ) - Volunteer 2024 and Organizing team since 2025
-
-📈 My GitHub Stats
+**My GitHub Stats**
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exc304&layout=compact&theme=react"/></p>
