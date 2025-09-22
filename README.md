@@ -7,9 +7,9 @@ I’m dedicated to delivering secure, scalable solutions in a collaborative envi
 Experimenting within software development teams since 2009.   
 I currently work as the Manager of Quality Engineering and Automation at [**Cycle Labs**](https://cyclelabs.io/), located in Raleigh North Carolina.
 
-🗺️ [**DevOps Days KC**](https://devopsdays.org/events/2025-kansas-city/welcome/) Co-Organizer since 2023  
-🤝 [**DevOps KC Meetup**](https://www.meetup.com/devops-kansas-city/) Member since 2023 | Co-Organizer and Host since 2024  
-🛠️ **Kansas City Developer Converence** ( [**KCDC**](https://www.kcdc.info/) ) - Volunteer since 2023 | Organizing team since 2024
+🗺️ [**DevOps Days KC**](https://devopsdays.org/events/2025-kansas-city/welcome/) Co-Organizer 2023 - 2025  
+🤝 [**DevOps KC Meetup**](https://www.meetup.com/devops-kansas-city/) Member since 2023 | Co-Organizer and Host 2024 - 2025  
+🛠️ **Kansas City Developer Converence** ( [**KCDC**](https://www.kcdc.info/) ) - Volunteer since 2023 | Organizing team 2024 - 2025
 
 **My GitHub Stats**
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exc304&layout=compact&theme=react"/></p>
