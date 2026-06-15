@@ -27,7 +27,7 @@ I'm a **UX designer and self-taught coder** with a passion for software testing 
 | 🗺️ Co-Organizer | [DevOps Days KC](https://devopsdays.org/events/2025-kansas-city/welcome/) | 2023–2025 |
 | 🤝 Co-Organizer & Host | [DevOps KC Meetup](https://www.meetup.com/devops-kansas-city/) | 2024–2025 |
 | 🛠️ Organizing Team | [Kansas City Developer Conference (KCDC)](https://www.kcdc.info/) | 2024–2025 |
-| 🤝 Co-host | [Browserstack Local Meetups]([https://www.kcdc.info/](https://www.browserstack.com/meetups) | 2025–present |
+| 🤝 Co-host | [Browserstack Local Meetups](https://www.browserstack.com/meetups) | 2025–present |
 
 
 ---
